@@ -1,11 +1,11 @@
-# Is ChatGPT Hallucinating About Some Crisis in AFRINIC?
+# Is Claude Hallucinating About Some Crisis in AFRINIC?
 
-I was stumbling across the Internet today and heard that ChatGPT hallucinates. In order to see if this was true, I asked it a very random question that popped into my mind.
+I was stumbling across the Internet today and heard that Claude hallucinates. In order to see if this was true, I asked it a very random question that popped into my mind.
 
 # Conversation
-`Innocent: Hey ChatGPT! So what is the current situation with CloudInnovation and AFRINIC?`
+`Innocent: Hey Claude! So what is the current situation with CloudInnovation and AFRINIC?`
 
-**Below I provide ChatGPT's response in full** (with its hallucinations and all. I include NONE of my own commentary! The response in in two parts)
+**Below I provide Claude's response in full** (with its hallucinations and all. I include NONE of my own commentary! The response in in two parts)
 
 -------------------
 
